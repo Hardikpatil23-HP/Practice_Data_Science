@@ -43,18 +43,10 @@ What can you do with SSMS? 
 
 **SQL Commands are mainly categorized into five categories:**
 
-- `DDL` – Data Definition Language 
-		-  `CREATE`,`DROP`,`ALTER`,`TRUNCATE`
-
-- `DQL` – Data Query Language 
-		- `INSERT`,`UPDATE`,`DELETE`
-
-- `DML` – Data Manipulation Language 
-		- `COMMIT`,`SAVEPOINT`,`ROLLBACK`,`SET Transaction`,`SET Transaction`
-
-- `DCL` – Data Control Language 
-		- `SELECT`
-
-- `TCL` – Transaction Control Language 
-		- `GRANT`, `REVOKE` 
-
+| CATEGORY | FULL FORM                    | COMMANDS                                                            |
+| -------- | ---------------------------- | ------------------------------------------------------------------- |
+| `DDL`    | Data Definition Language     | `CREATE`,`DROP`,`ALTER`,`TRUNCATE`                                  |
+| `DQL`    | Data Query Language          | `INSERT`,`UPDATE`,`DELETE`                                          |
+| `DML`    | Data Manipulation Language   | `COMMIT`,`SAVEPOINT`,`ROLLBACK`,`SET Transaction`,`SET Transaction` |
+| `DCL`    | Data Control Language        | `SELECT`                                                            |
+| `TCL`    | Transaction Control Language | `GRANT`, `REVOKE`                                                   |
