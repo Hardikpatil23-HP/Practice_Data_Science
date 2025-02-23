@@ -1,11 +1,11 @@
 # SQL Server
 
 - SQL Server is a relational database management studio developed by Microsoft.
-- **Key Features** of SQL Server :
-		- `ACID Properties` - ensures data integrity and reliability.
-		- `Scalability` - support other entry level applications.
-		- `Security` - It has authentication, data encryption, role based access.
-		- `Stored Procedures and Triggers` - helps automate database operations.
+- **Key Features** of SQL Server :  
+		- `ACID Properties` - ensures data integrity and reliability.  
+		- `Scalability` - support other entry level applications.  
+		- `Security` - It has authentication, data encryption, role based access.  
+		- `Stored Procedures and Triggers` - helps automate database operations.  
 ---
 # SQL Server Management Studio (SSMS)
 
